@@ -2,7 +2,6 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Utilities;
 
 public class LevelManager : Singleton<LevelManager>
 {
@@ -11,7 +10,8 @@ public class LevelManager : Singleton<LevelManager>
 
 	private Level currentLevel;
 
-	[SerializeField] private int propsLeft;
+	public int PropsLeft => props.Count;
+	public int propsleft;
 
 	private void Awake() {
 		currentLevel = levels[0];
@@ -20,11 +20,14 @@ public class LevelManager : Singleton<LevelManager>
 	private void Start() {
 		currentLevel.OnInit();
 		props = currentLevel.props;
-		propsLeft = currentLevel.totalProps;
+		propsleft = PropsLeft;
 	}
 
 	public void OnPropInBucket(Prop prop) {
-		--propsLeft;
+		if (props.Contains(prop)) {
+			props.Remove(prop);
+			propsleft = PropsLeft;
+		}
 	}
 
 }

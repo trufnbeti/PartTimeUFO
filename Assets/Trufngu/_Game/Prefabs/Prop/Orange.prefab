@@ -70,6 +70,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   poolType: 1
   dragable: {fileID: 6134899243888224409}
+  radius: 1.32
+  size: 0.7
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 8
+  containerLayer:
+    serializedVersion: 2
+    m_Bits: 128
 --- !u!114 &6134899243888224409
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -226,6 +234,6 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 2.0301222e-14, y: 0.000000170299}
-  m_Size: {x: 1.3200003, y: 1.1500728}
+  m_Offset: {x: -0.0031599833, y: 0.0000001706757}
+  m_Size: {x: 1.32, y: 1.1500793}
   m_Direction: 1
