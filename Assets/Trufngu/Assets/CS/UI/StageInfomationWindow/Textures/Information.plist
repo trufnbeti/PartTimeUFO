@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/StageSelect-assets/BlackScreen01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{282,98},{8,8}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,8}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/InfomationWindow01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{136,158}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,158}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/InfomationWindowEffectCenter.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{142,2},{136,158}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,158}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/MoneyNum00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{282,26},{8,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/MoneyNum01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,26},{8,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/MoneyNum02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{282,38},{8,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/MoneyNum03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,42},{8,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/MoneyNum04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{282,50},{8,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/MoneyNum05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,58},{8,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/MoneyNum06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{282,62},{8,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/MoneyNum07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{282,74},{8,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/MoneyNum08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,74},{8,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/MoneyNum09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{282,86},{8,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/NewMark01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{282,2},{24,8}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,8}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/NewMark02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{282,14},{24,8}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,8}</string>
+			</dict>
+			<key>Textures/StageSelect-assets/MoneyNumHyphen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,90},{8,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Information.png</string>
+			<key>realTextureFileName</key>
+			<string>Information.png</string>
+			<key>size</key>
+			<string>{308,162}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>308</integer>
+			<key>height</key>
+			<integer>162</integer>
+		</dict>
+	</dict>
+</plist>

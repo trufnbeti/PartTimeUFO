@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Blast-assets/Blast01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{184,188}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{184,188}</string>
+			</dict>
+			<key>Textures/Blast-assets/Blast02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{191,1},{184,188}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{184,188}</string>
+			</dict>
+			<key>Textures/Blast-assets/Blast03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,187},{184,188}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{184,188}</string>
+			</dict>
+			<key>Textures/Blast-assets/Blast04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{191,187},{184,188}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{184,188}</string>
+			</dict>
+			<key>Textures/Blast-assets/Blast05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,373},{184,188}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{184,188}</string>
+			</dict>
+			<key>Textures/Blast-assets/BlastWait01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{191,373},{184,188}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{184,188}</string>
+			</dict>
+			<key>Textures/Blast-assets/BlastWait02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,559},{184,188}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{184,188}</string>
+			</dict>
+			<key>Textures/Blast-assets/BlastWait03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{187,559},{184,188}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{184,188}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Blast.png</string>
+			<key>realTextureFileName</key>
+			<string>Blast.png</string>
+			<key>size</key>
+			<string>{380,748}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>380</integer>
+			<key>height</key>
+			<integer>748</integer>
+		</dict>
+	</dict>
+</plist>

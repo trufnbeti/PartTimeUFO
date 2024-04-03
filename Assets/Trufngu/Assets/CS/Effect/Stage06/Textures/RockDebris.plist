@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/RockBreak-assets/RockDebris01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,119},{60,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,60}</string>
+			</dict>
+			<key>Textures/RockBreak-assets/RockDebris02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{63,119},{60,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,60}</string>
+			</dict>
+			<key>Textures/RockBreak-assets/RockDebris03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{125,119},{60,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,60}</string>
+			</dict>
+			<key>Textures/RockBreak-assets/RockDebris04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{187,119},{60,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,60}</string>
+			</dict>
+			<key>Textures/RockBreak-assets/RockDebris05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{237,1},{60,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,60}</string>
+			</dict>
+			<key>Textures/HaniwaBreak-assets/HaniwaDebris01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{116,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,116}</string>
+			</dict>
+			<key>Textures/HaniwaBreak-assets/HaniwaDebris02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{119,1},{116,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,116}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>RockDebris.png</string>
+			<key>realTextureFileName</key>
+			<string>RockDebris.png</string>
+			<key>size</key>
+			<string>{298,180}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>298</integer>
+			<key>height</key>
+			<integer>180</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/DoctorSerifLocalize-assets/DoctorSerifEN.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,2},{471,121}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{648,148}</string>
+			</dict>
+			<key>Textures/DoctorSerifLocalize-assets/DoctorSerifFR.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{291,367},{586,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{648,148}</string>
+			</dict>
+			<key>Textures/DoctorSerifLocalize-assets/DoctorSerifGR.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{498,251},{459,112}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{648,148}</string>
+			</dict>
+			<key>Textures/DoctorSerifLocalize-assets/DoctorSerifIT.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,128},{492,132}}</string>
+				<key>offset</key>
+				<string>{-1,4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{648,148}</string>
+			</dict>
+			<key>Textures/DoctorSerifLocalize-assets/DoctorSerifKR.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,127},{466,120}}</string>
+				<key>offset</key>
+				<string>{14,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{648,148}</string>
+			</dict>
+			<key>Textures/DoctorSerifLocalize-assets/DoctorSerifSC.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,264},{285,118}}</string>
+				<key>offset</key>
+				<string>{0,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{648,148}</string>
+			</dict>
+			<key>Textures/DoctorSerifLocalize-assets/DoctorSerifSP.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{544,122}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{648,148}</string>
+			</dict>
+			<key>Textures/DoctorSerifLocalize-assets/DoctorSerifTC.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,386},{269,117}}</string>
+				<key>offset</key>
+				<string>{-7,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{648,148}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>DoctorSerifLocalize.png</string>
+			<key>realTextureFileName</key>
+			<string>DoctorSerifLocalize.png</string>
+			<key>size</key>
+			<string>{1023,505}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1023</integer>
+			<key>height</key>
+			<integer>505</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/ShippingCargo-assets/Baggage01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{303,1},{168,136}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{168,136}</string>
+			</dict>
+			<key>Textures/ShippingCargo-assets/Barrel01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{187,341},{180,180}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{180,180}</string>
+			</dict>
+			<key>Textures/ShippingCargo-assets/Basket.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,195},{324,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{324,144}</string>
+			</dict>
+			<key>Textures/ShippingCargo-assets/ChainContenna01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{300,192}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,192}</string>
+			</dict>
+			<key>Textures/ShippingCargo-assets/GlassFloat.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,341},{184,228}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{184,228}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ShippingCargo.png</string>
+			<key>realTextureFileName</key>
+			<string>ShippingCargo.png</string>
+			<key>size</key>
+			<string>{440,570}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>440</integer>
+			<key>height</key>
+			<integer>570</integer>
+		</dict>
+	</dict>
+</plist>

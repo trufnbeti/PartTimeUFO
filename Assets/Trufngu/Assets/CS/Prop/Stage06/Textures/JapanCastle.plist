@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/JapanCastle-assets/CastleArchLeft.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{451,309},{232,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{232,128}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/CastleArchRight.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{685,309},{232,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{232,128}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/CastleGableMiddle.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{459,1},{520,152}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{520,152}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/CastleGableTop.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{456,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{456,256}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/CastleScaffold.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{459,155},{392,152}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{392,152}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/Pedestal02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{853,155},{524,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{524,112}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/Cherry Blossoms01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{435,851},{140,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,148}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/FlagA01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,369},{112,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{112,256}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/FlagA02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{259,369},{112,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,256}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/FlagA03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,483},{112,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{112,256}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/FlagA04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,597},{112,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{112,256}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/FlagB01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{373,439},{112,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{112,256}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/FlagB02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{631,543},{112,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,256}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/FlagB03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{831,681},{112,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,256}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/FlagB04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,801},{112,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{112,256}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/Fubuki01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{577,801},{140,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{140,148}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/Fubuki02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{373,553},{140,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{140,148}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/Fubuki03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{259,695},{140,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,148}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/GateGuard01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{745,543},{84,152}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,152}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/GateGuard02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{745,697},{84,152}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,152}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/GateGuard03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,939},{84,152}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{84,152}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/Kite.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{155,915},{116,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,100}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/Rope.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{273,851},{168,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{168,160}</string>
+			</dict>
+			<key>Textures/JapanCastle-assets/CastleRampart.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,259},{448,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{448,108}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>JapanCastle.png</string>
+			<key>realTextureFileName</key>
+			<string>JapanCastle.png</string>
+			<key>size</key>
+			<string>{980,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>980</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

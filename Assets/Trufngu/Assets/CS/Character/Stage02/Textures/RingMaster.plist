@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Stage02Character-assets/RingMasterCheer01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{75,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,108}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/RingMasterTailWait01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,117},{22,15}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{22,15}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/RingMasterTailWait02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,141},{22,15}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{22,15}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/RingMasterTailWait03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{18,117},{22,15}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{22,15}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/RingMasterTailWait04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{18,141},{22,15}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{22,15}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/RingMasterWait01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{78,1},{75,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,108}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/RingMasterWait02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{155,1},{75,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,108}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/RingMasterWait03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{232,1},{75,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,108}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/RingMasterWait04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{309,1},{75,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,108}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/RingMasterCheer02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{386,1},{75,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{75,108}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/RingMasterCheer03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{386,78},{75,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{75,108}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/SwingRope.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,111},{4,171}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{4,171}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>RingMaster.png</string>
+			<key>realTextureFileName</key>
+			<string>RingMaster.png</string>
+			<key>size</key>
+			<string>{495,164}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>495</integer>
+			<key>height</key>
+			<integer>164</integer>
+		</dict>
+	</dict>
+</plist>

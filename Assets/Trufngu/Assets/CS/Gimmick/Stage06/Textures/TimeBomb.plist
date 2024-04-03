@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/TimeBomb-assets/BombBody.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{841,1},{136,136}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,136}</string>
+			</dict>
+			<key>Textures/TimeBomb-assets/Gage.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,227},{36,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,36}</string>
+			</dict>
+			<key>Textures/TimeBomb-assets/GageMask.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{39,227},{36,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,36}</string>
+			</dict>
+			<key>Textures/TimeBomb-assets/CenterExplosion01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{224,208}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{224,208}</string>
+			</dict>
+			<key>Textures/TimeBomb-assets/CenterExplosion02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{211,1},{224,208}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{224,208}</string>
+			</dict>
+			<key>Textures/TimeBomb-assets/CenterExplosion03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{421,1},{224,208}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{224,208}</string>
+			</dict>
+			<key>Textures/TimeBomb-assets/CenterExplosion04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{631,1},{224,208}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{224,208}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>TimeBomb.png</string>
+			<key>realTextureFileName</key>
+			<string>TimeBomb.png</string>
+			<key>size</key>
+			<string>{978,264}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>978</integer>
+			<key>height</key>
+			<integer>264</integer>
+		</dict>
+	</dict>
+</plist>

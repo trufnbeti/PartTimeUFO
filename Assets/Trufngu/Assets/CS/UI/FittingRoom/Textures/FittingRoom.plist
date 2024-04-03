@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/FittingRoom-assets/Audience01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{393,1},{240,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,118}</string>
+			</dict>
+			<key>Textures/FittingRoom-assets/Check.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{163,969},{29,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{29,25}</string>
+			</dict>
+			<key>Textures/FittingRoom-assets/BtnItem01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,969},{54,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,54}</string>
+			</dict>
+			<key>Textures/FittingRoom-assets/BtnItem02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{57,969},{54,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,54}</string>
+			</dict>
+			<key>Textures/FittingRoom-assets/BtnItemCover.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,969},{48,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{48,48}</string>
+			</dict>
+			<key>Textures/FittingRoom-assets/FittingRoomBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{240,390}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,390}</string>
+			</dict>
+			<key>Textures/FittingRoom-assets/LightingFloor.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{163,1000},{54,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,11}</string>
+			</dict>
+			<key>Textures/FittingRoom-assets/Shadow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{163,1013},{19,5}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{19,5}</string>
+			</dict>
+			<key>Textures/FittingRoom-assets/Lighting.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{241,727},{68,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,107}</string>
+			</dict>
+			<key>Textures/FittingRoom-assets/AudienceCheer00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{393,243},{240,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,118}</string>
+			</dict>
+			<key>Textures/FittingRoom-assets/AudienceCheer01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{393,485},{240,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,118}</string>
+			</dict>
+			<key>Textures/FittingRoom-assets/AudienceStrip00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,727},{240,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,118}</string>
+			</dict>
+			<key>Textures/FittingRoom-assets/AudienceStrip01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,727},{240,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,118}</string>
+			</dict>
+			<key>Textures/FittingRoom-assets/Floor.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,243},{240,390}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,390}</string>
+			</dict>
+			<key>Textures/FittingRoom-assets/ItemBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,485},{240,390}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,390}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>FittingRoom.png</string>
+			<key>realTextureFileName</key>
+			<string>FittingRoom.png</string>
+			<key>size</key>
+			<string>{512,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/AlienBossEffect-assets/BossMoveDust01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{115,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{115,78}</string>
+			</dict>
+			<key>Textures/AlienBossEffect-assets/BossMoveDust00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{118,1},{115,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{115,78}</string>
+			</dict>
+			<key>Textures/AlienBossEffect-assets/BossMoveDust02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{235,1},{115,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{115,78}</string>
+			</dict>
+			<key>Textures/AlienBossEffect-assets/BossMoveDust03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{352,1},{115,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{115,78}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>BossMoveDust.png</string>
+			<key>realTextureFileName</key>
+			<string>BossMoveDust.png</string>
+			<key>size</key>
+			<string>{468,80}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>468</integer>
+			<key>height</key>
+			<integer>80</integer>
+		</dict>
+	</dict>
+</plist>

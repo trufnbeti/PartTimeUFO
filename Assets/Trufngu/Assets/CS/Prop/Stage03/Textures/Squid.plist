@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Fish-assets/SquidA01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/SquidA02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,1},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/SquidA03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{357,1},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/SquidA04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,123},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/SquidA05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,123},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/SquidA06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{357,179},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/SquidA08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,245},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/SquidA09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,245},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/SquidA10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{357,357},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/SquidA11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,367},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/SquidA12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,367},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/SquidA13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,489},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/SquidAttack01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,489},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/SquidAttack02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{357,535},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/SquidAttack03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,611},{120,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,176}</string>
+			</dict>
+			<key>Textures/Fish-assets/UnderSeaSmoke01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,733},{128,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,128}</string>
+			</dict>
+			<key>Textures/Fish-assets/UnderSeaSmoke02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,611},{136,136}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,136}</string>
+			</dict>
+			<key>Textures/Fish-assets/UnderSeaSmoke03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{131,749},{112,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,112}</string>
+			</dict>
+			<key>Textures/Fish-assets/Urchin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{317,713},{116,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,116}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Squid.png</string>
+			<key>realTextureFileName</key>
+			<string>Squid.png</string>
+			<key>size</key>
+			<string>{478,862}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>478</integer>
+			<key>height</key>
+			<integer>862</integer>
+		</dict>
+	</dict>
+</plist>

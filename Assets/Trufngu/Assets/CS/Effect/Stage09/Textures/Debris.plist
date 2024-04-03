@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/AlienBossDebris-assets/DebrisMetal01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,457},{80,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,76}</string>
+			</dict>
+			<key>Textures/AlienBossDebris-assets/DebrisMetal02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>Textures/AlienBossDebris-assets/DebrisMetal03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,293},{92,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{92,80}</string>
+			</dict>
+			<key>Textures/AlienBossDebris-assets/DeprisGlass01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,535},{80,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,76}</string>
+			</dict>
+			<key>Textures/AlienBossDebris-assets/DeprisGlass02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,147},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>Textures/AlienBossDebris-assets/DeprisGlass03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,375},{92,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{92,80}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Debris.png</string>
+			<key>realTextureFileName</key>
+			<string>Debris.png</string>
+			<key>size</key>
+			<string>{146,612}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>146</integer>
+			<key>height</key>
+			<integer>612</integer>
+		</dict>
+	</dict>
+</plist>

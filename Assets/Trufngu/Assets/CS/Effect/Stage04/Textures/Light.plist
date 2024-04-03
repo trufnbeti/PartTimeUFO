@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/PedestalLight-assets/DinosaurLight03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{288,932}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{288,932}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Light.png</string>
+			<key>realTextureFileName</key>
+			<string>Light.png</string>
+			<key>size</key>
+			<string>{290,934}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>290</integer>
+			<key>height</key>
+			<integer>934</integer>
+		</dict>
+	</dict>
+</plist>

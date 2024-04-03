@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/TouchEffect-assets/TouchEffect01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{149,473},{82,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,82}</string>
+			</dict>
+			<key>Textures/TouchEffect-assets/TouchEffect02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{233,497},{114,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{114,114}</string>
+			</dict>
+			<key>Textures/TouchEffect-assets/TouchEffect03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,473},{146,146}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{146,146}</string>
+			</dict>
+			<key>Textures/TouchEffect-assets/TouchEffect04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,261},{210,210}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{210,210}</string>
+			</dict>
+			<key>Textures/TouchEffect-assets/TouchEffect05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{261,253},{242,242}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{242,242}</string>
+			</dict>
+			<key>Textures/TouchEffect-assets/TouchEffect06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{261,1},{250,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{250,250}</string>
+			</dict>
+			<key>Textures/TouchEffect-assets/TouchEffect07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{258,258}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{258,258}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Touch.png</string>
+			<key>realTextureFileName</key>
+			<string>Touch.png</string>
+			<key>size</key>
+			<string>{512,620}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>620</integer>
+		</dict>
+	</dict>
+</plist>

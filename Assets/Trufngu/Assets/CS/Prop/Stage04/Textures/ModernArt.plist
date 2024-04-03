@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/ModernArt-assets/ModernArt01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{380,304}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{388,312}</string>
+			</dict>
+			<key>Textures/ModernArt-assets/ModernArt01Damage.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{383,1},{380,304}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{388,312}</string>
+			</dict>
+			<key>Textures/ModernArt-assets/ModernArt02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,307},{116,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{124,124}</string>
+			</dict>
+			<key>Textures/ModernArt-assets/ModernArt02Damage.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{119,307},{116,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{124,124}</string>
+			</dict>
+			<key>Textures/ModernArt-assets/ModernArt03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{765,1},{164,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,124}</string>
+			</dict>
+			<key>Textures/ModernArt-assets/ModernArt03Damage.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{765,119},{164,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,124}</string>
+			</dict>
+			<key>Textures/ModernArt-assets/ModernArt03_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{765,237},{164,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,124}</string>
+			</dict>
+			<key>Textures/ModernArt-assets/ModernArt03Eye01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{931,65},{16,24}}</string>
+				<key>offset</key>
+				<string>{-30,30}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{172,124}</string>
+			</dict>
+			<key>Textures/ModernArt-assets/ModernArt03Eye02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{931,1},{32,28}}</string>
+				<key>offset</key>
+				<string>{-34,28}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{172,124}</string>
+			</dict>
+			<key>Textures/ModernArt-assets/ModernArt03Eye03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{931,35},{28,28}}</string>
+				<key>offset</key>
+				<string>{-36,28}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,124}</string>
+			</dict>
+			<key>Textures/ModernArt-assets/ModernArt02Eye01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{237,307},{64,76}}</string>
+				<key>offset</key>
+				<string>{14,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{124,124}</string>
+			</dict>
+			<key>Textures/ModernArt-assets/ModernArt02Eye02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{471,307},{56,68}}</string>
+				<key>offset</key>
+				<string>{14,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{124,124}</string>
+			</dict>
+			<key>Textures/ModernArt-assets/ModernArt02Eye03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{315,307},{60,76}}</string>
+				<key>offset</key>
+				<string>{12,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{124,124}</string>
+			</dict>
+			<key>Textures/ModernArt-assets/ModernArt02Eye04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{393,307},{60,76}}</string>
+				<key>offset</key>
+				<string>{12,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{124,124}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ModernArt.png</string>
+			<key>realTextureFileName</key>
+			<string>ModernArt.png</string>
+			<key>size</key>
+			<string>{960,424}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>960</integer>
+			<key>height</key>
+			<integer>424</integer>
+		</dict>
+	</dict>
+</plist>

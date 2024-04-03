@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/BeltConveyor-assets/CornerLine01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{187,1},{11,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{11,19}</string>
+			</dict>
+			<key>Textures/BeltConveyor-assets/CornerLine02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,11},{11,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{11,19}</string>
+			</dict>
+			<key>Textures/BeltConveyor-assets/CornerLine03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{22,11},{11,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{11,19}</string>
+			</dict>
+			<key>Textures/BeltConveyor-assets/CornerLine04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{43,11},{11,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{11,19}</string>
+			</dict>
+			<key>Textures/BeltConveyor-assets/LaneBack.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{64,11},{11,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{11,19}</string>
+			</dict>
+			<key>Textures/BeltConveyor-assets/LaneTop.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{91,8}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,8}</string>
+			</dict>
+			<key>Textures/BeltConveyor-assets/Screw01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{85,11},{9,9}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{9,9}</string>
+			</dict>
+			<key>Textures/BeltConveyor-assets/Screw02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{96,11},{9,9}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{9,9}</string>
+			</dict>
+			<key>Textures/BeltConveyor-assets/LaneTopBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{94,1},{91,8}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,8}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>BeltConveyor.png</string>
+			<key>realTextureFileName</key>
+			<string>BeltConveyor.png</string>
+			<key>size</key>
+			<string>{207,23}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>207</integer>
+			<key>height</key>
+			<integer>23</integer>
+		</dict>
+	</dict>
+</plist>

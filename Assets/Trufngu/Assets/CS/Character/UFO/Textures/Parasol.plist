@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Antenna03Parasol-assets/Parasol01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{225,1},{20,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,40}</string>
+			</dict>
+			<key>Textures/Antenna03Parasol-assets/Parasol02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{100,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,68}</string>
+			</dict>
+			<key>Textures/Antenna03Parasol-assets/UFOBody03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{103,1},{120,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,40}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Parasol.png</string>
+			<key>realTextureFileName</key>
+			<string>Parasol.png</string>
+			<key>size</key>
+			<string>{246,70}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>246</integer>
+			<key>height</key>
+			<integer>70</integer>
+		</dict>
+	</dict>
+</plist>

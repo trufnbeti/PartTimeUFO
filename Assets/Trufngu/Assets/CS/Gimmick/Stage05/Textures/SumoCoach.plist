@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/SumoCoach-assets/SumoCoach00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{42,37}}</string>
+				<key>offset</key>
+				<string>{0,-7}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,54}</string>
+			</dict>
+			<key>Textures/SumoCoach-assets/SumoCoach01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{45,1},{40,37}}</string>
+				<key>offset</key>
+				<string>{0,-7}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,54}</string>
+			</dict>
+			<key>Textures/SumoCoach-assets/SumoCoach02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{87,1},{40,37}}</string>
+				<key>offset</key>
+				<string>{1,-7}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,54}</string>
+			</dict>
+			<key>Textures/SumoCoach-assets/SumoCoachFace01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{129,1},{18,26}}</string>
+				<key>offset</key>
+				<string>{-7,13}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,54}</string>
+			</dict>
+			<key>Textures/SumoCoach-assets/SumoCoachFace02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{157,1},{18,26}}</string>
+				<key>offset</key>
+				<string>{-7,13}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,54}</string>
+			</dict>
+			<key>Textures/SumoCoach-assets/SumoCoachFace03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{185,1},{18,26}}</string>
+				<key>offset</key>
+				<string>{-7,13}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,54}</string>
+			</dict>
+			<key>Textures/SumoCoach-assets/SumoCoachFace04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{213,1},{18,26}}</string>
+				<key>offset</key>
+				<string>{-7,13}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,54}</string>
+			</dict>
+			<key>Textures/SumoCoach-assets/SumoCoachFace05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{241,1},{18,26}}</string>
+				<key>offset</key>
+				<string>{-7,13}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,54}</string>
+			</dict>
+			<key>Textures/SumoCoach-assets/SumoCoachFace06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{269,1},{18,26}}</string>
+				<key>offset</key>
+				<string>{-7,13}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,54}</string>
+			</dict>
+			<key>Textures/SumoCoach-assets/SumoCoachFace07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{297,1},{18,26}}</string>
+				<key>offset</key>
+				<string>{-7,13}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,54}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>SumoCoach.png</string>
+			<key>realTextureFileName</key>
+			<string>SumoCoach.png</string>
+			<key>size</key>
+			<string>{324,39}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>324</integer>
+			<key>height</key>
+			<integer>39</integer>
+		</dict>
+	</dict>
+</plist>

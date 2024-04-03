@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/HammerImpact-assets/HammerAfterMath00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{208,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{208,51}</string>
+			</dict>
+			<key>Textures/HammerImpact-assets/HammerAfterMath01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{211,1},{208,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{208,51}</string>
+			</dict>
+			<key>Textures/HammerImpact-assets/HammerAfterMath02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{421,1},{208,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{208,51}</string>
+			</dict>
+			<key>Textures/HammerImpact-assets/HammerAfterMath03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{631,1},{208,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{208,51}</string>
+			</dict>
+			<key>Textures/HammerImpact-assets/HammerAttack00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,54},{49,161}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{49,161}</string>
+			</dict>
+			<key>Textures/HammerImpact-assets/HammerAttack01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{164,54},{49,161}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{49,161}</string>
+			</dict>
+			<key>Textures/HammerImpact-assets/HammerAttack02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{327,54},{49,161}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{49,161}</string>
+			</dict>
+			<key>Textures/HammerImpact-assets/HammerAttack03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{490,54},{49,161}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{49,161}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>HammerImpact.png</string>
+			<key>realTextureFileName</key>
+			<string>HammerImpact.png</string>
+			<key>size</key>
+			<string>{840,104}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>840</integer>
+			<key>height</key>
+			<integer>104</integer>
+		</dict>
+	</dict>
+</plist>

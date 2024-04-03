@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Fish-assets/FishDCatched01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{236,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,144}</string>
+			</dict>
+			<key>Textures/Fish-assets/FishDCatched02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{239,1},{236,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,144}</string>
+			</dict>
+			<key>Textures/Fish-assets/FishDCringe01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,147},{236,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,144}</string>
+			</dict>
+			<key>Textures/Fish-assets/FishDCringe02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{239,147},{236,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,144}</string>
+			</dict>
+			<key>Textures/Fish-assets/FishDCringe03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,293},{236,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,144}</string>
+			</dict>
+			<key>Textures/Fish-assets/FishDPullOut01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{239,293},{236,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,144}</string>
+			</dict>
+			<key>Textures/Fish-assets/FishDTurn01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,439},{236,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{236,144}</string>
+			</dict>
+			<key>Textures/Fish-assets/FishDTurn02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,677},{236,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,144}</string>
+			</dict>
+			<key>Textures/Fish-assets/FishDWait01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{147,439},{236,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{236,144}</string>
+			</dict>
+			<key>Textures/Fish-assets/FishDWait02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{239,677},{236,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,144}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>FishD.png</string>
+			<key>realTextureFileName</key>
+			<string>FishD.png</string>
+			<key>size</key>
+			<string>{476,822}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>476</integer>
+			<key>height</key>
+			<integer>822</integer>
+		</dict>
+	</dict>
+</plist>

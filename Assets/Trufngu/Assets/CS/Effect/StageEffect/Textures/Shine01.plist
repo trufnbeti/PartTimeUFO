@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Shine01-assets/Shine01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{22,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{22,22}</string>
+			</dict>
+			<key>Textures/Shine01-assets/Shine02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,25},{20,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{22,22}</string>
+			</dict>
+			<key>Textures/Shine01-assets/Shine03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,47},{18,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{22,22}</string>
+			</dict>
+			<key>Textures/Shine01-assets/Shine04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{25,1},{6,6}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,8}</string>
+			</dict>
+			<key>Textures/Shine01-assets/Shine05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{25,9},{2,2}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{4,4}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Shine01.png</string>
+			<key>realTextureFileName</key>
+			<string>Shine01.png</string>
+			<key>size</key>
+			<string>{32,66}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>32</integer>
+			<key>height</key>
+			<integer>66</integer>
+		</dict>
+	</dict>
+</plist>

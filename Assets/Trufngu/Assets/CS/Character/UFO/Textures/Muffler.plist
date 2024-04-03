@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Antenna02Muffler-assets/Knit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{80,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,44}</string>
+			</dict>
+			<key>Textures/Antenna02Muffler-assets/Muffler01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{153,35},{28,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{28,56}</string>
+			</dict>
+			<key>Textures/Antenna02Muffler-assets/Muffler01OL.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{183,67},{36,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{36,52}</string>
+			</dict>
+			<key>Textures/Antenna02Muffler-assets/Muffler02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{83,35},{32,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{32,68}</string>
+			</dict>
+			<key>Textures/Antenna02Muffler-assets/Muffler02OL.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{189,1},{40,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,64}</string>
+			</dict>
+			<key>Textures/Antenna02Muffler-assets/Muffler03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,47},{36,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{36,52}</string>
+			</dict>
+			<key>Textures/Antenna02Muffler-assets/UFOBody02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{83,1},{104,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,32}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Muffler.png</string>
+			<key>realTextureFileName</key>
+			<string>Muffler.png</string>
+			<key>size</key>
+			<string>{236,104}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>236</integer>
+			<key>height</key>
+			<integer>104</integer>
+		</dict>
+	</dict>
+</plist>

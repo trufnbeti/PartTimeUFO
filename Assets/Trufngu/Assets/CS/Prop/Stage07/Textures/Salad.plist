@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/SaladProp-assets/Apple.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{289,195},{132,136}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{132,136}</string>
+			</dict>
+			<key>Textures/SaladProp-assets/Avocado.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{427,195},{116,124}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,124}</string>
+			</dict>
+			<key>Textures/SaladProp-assets/Broccoli.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1047,1},{152,132}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{152,132}</string>
+			</dict>
+			<key>Textures/SaladProp-assets/Carrot.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{889,1},{156,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{156,148}</string>
+			</dict>
+			<key>Textures/SaladProp-assets/Egg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1047,135},{128,152}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{128,152}</string>
+			</dict>
+			<key>Textures/SaladProp-assets/Ham.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{147,195},{140,132}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,132}</string>
+			</dict>
+			<key>Textures/SaladProp-assets/Onion.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,195},{132,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{132,144}</string>
+			</dict>
+			<key>Textures/SaladProp-assets/Pineapple.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{889,151},{136,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{136,140}</string>
+			</dict>
+			<key>Textures/SaladProp-assets/SaladBowl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{720,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{720,116}</string>
+			</dict>
+			<key>Textures/SaladProp-assets/Shrimp.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{545,119},{120,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,108}</string>
+			</dict>
+			<key>Textures/SaladProp-assets/Tomato.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{667,195},{104,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,104}</string>
+			</dict>
+			<key>Textures/HalEgg-assets/HalEgg01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{723,1},{164,192}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{164,192}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Salad.png</string>
+			<key>realTextureFileName</key>
+			<string>Salad.png</string>
+			<key>size</key>
+			<string>{1200,328}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1200</integer>
+			<key>height</key>
+			<integer>328</integer>
+		</dict>
+	</dict>
+</plist>

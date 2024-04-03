@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Antenna10Helmet-assets/Helmet.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{215,1},{92,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{92,52}</string>
+			</dict>
+			<key>Textures/Antenna10Helmet-assets/Light.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{212,132}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{212,132}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Helmet.png</string>
+			<key>realTextureFileName</key>
+			<string>Helmet.png</string>
+			<key>size</key>
+			<string>{268,134}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>268</integer>
+			<key>height</key>
+			<integer>134</integer>
+		</dict>
+	</dict>
+</plist>

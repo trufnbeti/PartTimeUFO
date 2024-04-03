@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/StageAchievement-assets/AchievementFrame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{56,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,14}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/AchievementNumber00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{252,1},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/AchievementNumber01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{59,13},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/AchievementNumber02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,17},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/AchievementNumber03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{15,17},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/AchievementNumber04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{29,17},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/AchievementNumber05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{43,17},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/AchievementNumber06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{73,13},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/AchievementNumber07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{87,13},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/AchievementNumber08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{101,13},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/AchievementNumber09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{115,13},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/AchievementNumber10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{129,13},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/RemainingText.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{229,1},{21,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{21,10}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/RemainingTextEn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{59,1},{32,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,10}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/RemainingTextFr.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{93,1},{32,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,10}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/RemainingTextGr.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{127,1},{32,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,10}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/RemainingTextIt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{161,1},{32,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,10}</string>
+			</dict>
+			<key>Textures/StageAchievement-assets/RemainingTextSp.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{195,1},{32,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,10}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>StageAchievement.png</string>
+			<key>realTextureFileName</key>
+			<string>StageAchievement.png</string>
+			<key>size</key>
+			<string>{265,30}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>265</integer>
+			<key>height</key>
+			<integer>30</integer>
+		</dict>
+	</dict>
+</plist>

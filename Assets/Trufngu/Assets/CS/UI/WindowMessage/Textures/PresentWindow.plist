@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/PresentWindow-assets/BlackScreen01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,502},{8,8}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,8}</string>
+			</dict>
+			<key>Textures/PresentWindow-assets/PresentWindow01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{154,190}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{154,190}</string>
+			</dict>
+			<key>Textures/PresentWindow-assets/PresentWindow02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,196},{154,190}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{154,190}</string>
+			</dict>
+			<key>Textures/BtnAppearEffect01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,390},{208,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{208,32}</string>
+			</dict>
+			<key>Textures/BtnAppearEffect03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,486},{32,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,12}</string>
+			</dict>
+			<key>Textures/BtnAppearEffect04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{38,486},{32,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,12}</string>
+			</dict>
+			<key>Textures/AccessoryImage-assets/Hako.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,426},{40,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,56}</string>
+			</dict>
+			<key>Textures/AccessoryImage-assets/King.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{46,426},{40,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,56}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PresentWindow.png</string>
+			<key>realTextureFileName</key>
+			<string>PresentWindow.png</string>
+			<key>size</key>
+			<string>{212,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>212</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Stage03Character-assets/SeagullBCheer01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{43,68},{47,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{47,44}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/SeagullBCheer02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{85,1},{47,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{47,44}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/SeagullBCheer03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{68,117},{47,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{47,44}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/SeagullBCheer04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{89,50},{47,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{47,44}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/SeagullBCheer05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{131,1},{47,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{47,44}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/SeagullBWait01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{114,99},{47,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,44}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/SeagullBWait02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{135,50},{47,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{47,44}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/SeagullBWait03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{114,145},{47,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{47,44}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/SeagullAWait01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{65,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{65,40}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/SeagullAWait02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,68},{65,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{65,40}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/SeagullAWait03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,135},{65,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,40}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/SeagullAWait04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{43,1},{65,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{65,40}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Seagull.png</string>
+			<key>realTextureFileName</key>
+			<string>Seagull.png</string>
+			<key>size</key>
+			<string>{180,193}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>180</integer>
+			<key>height</key>
+			<integer>193</integer>
+		</dict>
+	</dict>
+</plist>

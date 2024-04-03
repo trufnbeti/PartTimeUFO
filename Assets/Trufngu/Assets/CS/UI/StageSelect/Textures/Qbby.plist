@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/MainMenu-assets/Qbby00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyDance01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,47},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyDance02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,93},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyDance03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,139},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyDance04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,185},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyDance05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,231},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyDance06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,277},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyDance07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,323},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyDance08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,369},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyEyeClose.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,415},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyJump00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,461},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyJump01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,507},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyJump02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,553},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyJump03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,599},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyOpen00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,645},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyOpen01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,691},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyOpen02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,737},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/QbbyOpen03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,783},{20,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,44}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Qbby.png</string>
+			<key>realTextureFileName</key>
+			<string>Qbby.png</string>
+			<key>size</key>
+			<string>{22,828}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>22</integer>
+			<key>height</key>
+			<integer>828</integer>
+		</dict>
+	</dict>
+</plist>

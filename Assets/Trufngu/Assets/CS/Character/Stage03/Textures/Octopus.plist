@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Stage03Character-assets/OctopusWait01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusWait02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,1},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusWait03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,38},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusClear04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,38},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusFail01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,75},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusFail02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,75},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusFail03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,112},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusFail04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,112},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusThrill01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,149},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusThrill02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,149},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusThrill03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,186},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusClear01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,186},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusClear02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,223},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusClear03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,223},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusSuccess01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,260},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusSuccess02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,260},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusSuccess03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,297},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+			<key>Textures/Stage03Character-assets/OctopusSuccess00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,297},{51,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,35}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Octopus.png</string>
+			<key>realTextureFileName</key>
+			<string>Octopus.png</string>
+			<key>size</key>
+			<string>{106,333}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>106</integer>
+			<key>height</key>
+			<integer>333</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/BuildingBG-assets/BGFront.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{540,320}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{540,320}</string>
+			</dict>
+			<key>Textures/BuildingBG-assets/BGMiddle.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{543,1},{540,320}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{540,320}</string>
+			</dict>
+			<key>Textures/BuildingBG-assets/StageGround00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{543,543},{540,161}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{540,161}</string>
+			</dict>
+			<key>Textures/BuildingBG-assets/Sea01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{865,1},{540,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{540,144}</string>
+			</dict>
+			<key>Textures/BuildingBG-assets/Sea02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{706,543},{540,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{540,144}</string>
+			</dict>
+			<key>Textures/BuildingBG-assets/Sea03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{852,543},{540,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{540,144}</string>
+			</dict>
+			<key>Textures/BuildingBG-assets/Sea04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1347},{540,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{540,144}</string>
+			</dict>
+			<key>Textures/BuildingBG-assets/BGBack.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,323},{540,320}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{540,320}</string>
+			</dict>
+			<key>Textures/BuildingBG-assets/Sea05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1085},{540,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{540,144}</string>
+			</dict>
+			<key>Textures/BuildingBG-assets/Sea06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,645},{540,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{540,144}</string>
+			</dict>
+			<key>Textures/BuildingBG-assets/GapBackL.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{998,543},{16,480}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{16,480}</string>
+			</dict>
+			<key>Textures/BuildingBG-assets/GapBackT.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1493},{572,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{572,80}</string>
+			</dict>
+			<key>Textures/BuildingBG-assets/GapFrontL.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{998,1025},{16,320}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{16,320}</string>
+			</dict>
+			<key>Textures/BuildingBG-assets/GapFrontR.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1575},{16,320}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{16,320}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Stage06.png</string>
+			<key>realTextureFileName</key>
+			<string>Stage06.png</string>
+			<key>size</key>
+			<string>{1015,1592}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1015</integer>
+			<key>height</key>
+			<integer>1592</integer>
+		</dict>
+	</dict>
+</plist>

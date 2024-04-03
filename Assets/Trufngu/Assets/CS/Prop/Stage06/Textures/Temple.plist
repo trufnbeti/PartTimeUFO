@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Temple-assets/Entablature.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{420,228}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{420,228}</string>
+			</dict>
+			<key>Textures/Temple-assets/Pedestal01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,653},{584,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{584,44}</string>
+			</dict>
+			<key>Textures/Temple-assets/Pediment.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{587,1},{440,172}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{440,172}</string>
+			</dict>
+			<key>Textures/Temple-assets/PillarA.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{423,1},{152,360}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{152,360}</string>
+			</dict>
+			<key>Textures/Temple-assets/PillarHalf.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{761,1},{128,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,148}</string>
+			</dict>
+			<key>Textures/Temple-assets/Haniwa02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{587,617},{120,212}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,212}</string>
+			</dict>
+			<key>Textures/Temple-assets/Entablature00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,423},{420,228}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{420,228}</string>
+			</dict>
+			<key>Textures/Temple-assets/Pediment00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{423,443},{440,172}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{440,172}</string>
+			</dict>
+			<key>Textures/Temple-assets/PillarA00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{231,1},{152,360}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{152,360}</string>
+			</dict>
+			<key>Textures/Temple-assets/PillarHalf00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{761,151},{128,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,148}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Temple.png</string>
+			<key>realTextureFileName</key>
+			<string>Temple.png</string>
+			<key>size</key>
+			<string>{890,738}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>890</integer>
+			<key>height</key>
+			<integer>738</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/licence-assets/Licence01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{640,2048}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{640,2048}</string>
+			</dict>
+			<key>Textures/licence-assets/Licence02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,2048},{640,2048}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{640,2048}</string>
+			</dict>
+			<key>Textures/licence-assets/Licence03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{640,0},{640,2048}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{640,2048}</string>
+			</dict>
+			<key>Textures/licence-assets/Licence04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{640,2048},{640,2048}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{640,2048}</string>
+			</dict>
+			<key>Textures/licence-assets/Licence05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1280,0},{640,2048}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{640,2048}</string>
+			</dict>
+			<key>Textures/licence-assets/Licence06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1280,2048},{640,2048}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{640,2048}</string>
+			</dict>
+			<key>Textures/licence-assets/Licence07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1920,0},{640,2048}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{640,2048}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Licence01.png</string>
+			<key>realTextureFileName</key>
+			<string>Licence01.png</string>
+			<key>size</key>
+			<string>{2560,4096}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2560</integer>
+			<key>height</key>
+			<integer>4096</integer>
+		</dict>
+	</dict>
+</plist>
