@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df6121a5-3528-4665-9206-0c431e0f6dfe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PartTimeUFO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PartTimeUFO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Levels/Level_1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Levels/Level_1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Prop.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Prop/Bucket.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Prop/Bucket.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Prop/Orange.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Prop/Orange.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Prop/OrangeBox.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Prop/OrangeBox.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Level.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Level.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Prop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Prop.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Manager/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Manager/LevelManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Others/Constant.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Others/Constant.cs" afterDir="false" />
-    </list>
+    <list default="true" id="df6121a5-3528-4665-9206-0c431e0f6dfe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +40,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "trufngu",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -120,7 +105,7 @@
       <updated>1712047649630</updated>
       <workItem from="1712047653413" duration="6970000" />
       <workItem from="1712110438208" duration="6658000" />
-      <workItem from="1712197729971" duration="18565000" />
+      <workItem from="1712197729971" duration="19006000" />
     </task>
     <servers />
   </component>
