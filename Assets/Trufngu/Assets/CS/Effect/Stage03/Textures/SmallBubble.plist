@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/SmallBubble-assets/SmallBubble01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{8,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,32}</string>
+			</dict>
+			<key>Textures/SmallBubble-assets/SmallBubble02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,35},{8,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,32}</string>
+			</dict>
+			<key>Textures/SmallBubble-assets/SmallBubble03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,69},{8,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,32}</string>
+			</dict>
+			<key>Textures/SmallBubble-assets/SmallBubble04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,103},{8,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,32}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>SmallBubble.png</string>
+			<key>realTextureFileName</key>
+			<string>SmallBubble.png</string>
+			<key>size</key>
+			<string>{10,136}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>10</integer>
+			<key>height</key>
+			<integer>136</integer>
+		</dict>
+	</dict>
+</plist>

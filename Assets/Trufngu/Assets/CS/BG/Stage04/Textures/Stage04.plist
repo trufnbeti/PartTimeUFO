@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/MuseumBG-assets/BGFront.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{540,390}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{540,390}</string>
+			</dict>
+			<key>Textures/MuseumBG-assets/BGMiddle.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{543,1},{540,320}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{540,320}</string>
+			</dict>
+			<key>Textures/MuseumBG-assets/BGBack.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,393},{540,320}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{540,320}</string>
+			</dict>
+			<key>Textures/MuseumBG-assets/StageGround.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{865,1},{540,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{540,116}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Stage04.png</string>
+			<key>realTextureFileName</key>
+			<string>Stage04.png</string>
+			<key>size</key>
+			<string>{982,714}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>982</integer>
+			<key>height</key>
+			<integer>714</integer>
+		</dict>
+	</dict>
+</plist>

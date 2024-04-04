@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/LaboLift-assets/Lamp.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{135,129},{13,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{13,11}</string>
+			</dict>
+			<key>Textures/LaboLift-assets/Lift.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{150,129}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,129}</string>
+			</dict>
+			<key>Textures/LaboLift-assets/RedLight00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,129},{54,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,27}</string>
+			</dict>
+			<key>Textures/LaboLift-assets/RedLight01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,129},{54,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,27}</string>
+			</dict>
+			<key>Textures/LaboLift-assets/RedLight02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{108,129},{54,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,27}</string>
+			</dict>
+			<key>Textures/LaboLift-assets/RedLight03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,156},{54,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,27}</string>
+			</dict>
+			<key>Textures/LaboLift-assets/HandRail.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{150,0},{271,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{271,28}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>LaboLift.png</string>
+			<key>realTextureFileName</key>
+			<string>LaboLift.png</string>
+			<key>size</key>
+			<string>{178,271}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>178</integer>
+			<key>height</key>
+			<integer>271</integer>
+		</dict>
+	</dict>
+</plist>

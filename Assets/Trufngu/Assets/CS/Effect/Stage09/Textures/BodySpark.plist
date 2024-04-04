@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/BodySpark-assets/BodyThunder00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{91,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,80}</string>
+			</dict>
+			<key>Textures/BodySpark-assets/BodyThunder01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{94,1},{91,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,80}</string>
+			</dict>
+			<key>Textures/BodySpark-assets/BodyThunder02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{187,1},{91,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,80}</string>
+			</dict>
+			<key>Textures/BodySpark-assets/BodyThunder03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{280,1},{91,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,80}</string>
+			</dict>
+			<key>Textures/BodySpark-assets/Spark00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{373,1},{42,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,42}</string>
+			</dict>
+			<key>Textures/BodySpark-assets/Spark01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{417,1},{42,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,42}</string>
+			</dict>
+			<key>Textures/BodySpark-assets/Spark02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{461,1},{42,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,42}</string>
+			</dict>
+			<key>Textures/BodySpark-assets/Spark03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{505,1},{42,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,42}</string>
+			</dict>
+			<key>Textures/BodySpark-assets/Spark04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{549,1},{42,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,42}</string>
+			</dict>
+			<key>Textures/BodySpark-assets/Spark05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{593,1},{42,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,42}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>BodySpark.png</string>
+			<key>realTextureFileName</key>
+			<string>BodySpark.png</string>
+			<key>size</key>
+			<string>{636,82}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>636</integer>
+			<key>height</key>
+			<integer>82</integer>
+		</dict>
+	</dict>
+</plist>

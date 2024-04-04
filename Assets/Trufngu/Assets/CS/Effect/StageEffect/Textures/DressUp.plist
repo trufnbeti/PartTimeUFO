@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/DressUp-assets/Shining01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{54,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,54}</string>
+			</dict>
+			<key>Textures/DressUp-assets/Shining02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,57},{54,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,54}</string>
+			</dict>
+			<key>Textures/DressUp-assets/Shining03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{57,1},{54,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,54}</string>
+			</dict>
+			<key>Textures/DressUp-assets/Shining04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,1},{54,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,54}</string>
+			</dict>
+			<key>Textures/DressUp-assets/Shining05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{57,57},{54,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,54}</string>
+			</dict>
+			<key>Textures/DressUp-assets/Shining07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,57},{54,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,54}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>DressUp.png</string>
+			<key>realTextureFileName</key>
+			<string>DressUp.png</string>
+			<key>size</key>
+			<string>{168,112}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>168</integer>
+			<key>height</key>
+			<integer>112</integer>
+		</dict>
+	</dict>
+</plist>

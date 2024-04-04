@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/NazcaBG-assets/Farm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{640,175},{540,89}}</string>
+				<key>offset</key>
+				<string>{0,-19}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{540,127}</string>
+			</dict>
+			<key>Textures/NazcaBG-assets/Sky01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,546},{360,169}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,169}</string>
+			</dict>
+			<key>Textures/NazcaBG-assets/Sky02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{366,2},{360,169}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,169}</string>
+			</dict>
+			<key>Textures/NazcaBG-assets/Woods.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{343,175},{360,111}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{360,111}</string>
+			</dict>
+			<key>Textures/NazcaBG-assets/BGStage1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{540,127}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{540,127}</string>
+			</dict>
+			<key>Textures/NazcaBG-assets/Ground01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{133,2},{540,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{540,102}</string>
+			</dict>
+			<key>Textures/NazcaBG-assets/Ground02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{238,2},{540,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{540,102}</string>
+			</dict>
+			<key>Textures/NazcaBG-assets/FarmScroll.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{366,539},{270,57}}</string>
+				<key>offset</key>
+				<string>{0,-17}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{270,93}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Stage01.png</string>
+			<key>realTextureFileName</key>
+			<string>Stage01.png</string>
+			<key>size</key>
+			<string>{731,717}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>731</integer>
+			<key>height</key>
+			<integer>717</integer>
+		</dict>
+	</dict>
+</plist>

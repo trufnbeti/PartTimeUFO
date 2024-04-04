@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Antenna19Astronaut-assets/Antenna01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{193,47},{12,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,20}</string>
+			</dict>
+			<key>Textures/Antenna19Astronaut-assets/Antenna02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{193,1},{36,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,44}</string>
+			</dict>
+			<key>Textures/Antenna19Astronaut-assets/AntennaLight.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{123,1},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+			<key>Textures/Antenna19Astronaut-assets/Body19.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{120,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,84}</string>
+			</dict>
+			<key>Textures/UFOAstronautBody-assets/UFOLeg1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{123,71},{112,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,32}</string>
+			</dict>
+			<key>Textures/UFOAstronautBody-assets/UFOLeg2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,87},{112,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,32}</string>
+			</dict>
+			<key>Textures/UFOAstronautBody-assets/UFOLeg3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{115,105},{112,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,32}</string>
+			</dict>
+			<key>Textures/UFOAstronautBody-assets/UFOLeg4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,121},{112,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,32}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Astronaut.png</string>
+			<key>realTextureFileName</key>
+			<string>Astronaut.png</string>
+			<key>size</key>
+			<string>{236,154}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>236</integer>
+			<key>height</key>
+			<integer>154</integer>
+		</dict>
+	</dict>
+</plist>

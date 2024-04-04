@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Antenna15Cook-assets/Body15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{95,1},{96,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{96,24}</string>
+			</dict>
+			<key>Textures/Antenna15Cook-assets/Cook01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{193,1},{68,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,32}</string>
+			</dict>
+			<key>Textures/Antenna15Cook-assets/Cook02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{95,27},{68,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,28}</string>
+			</dict>
+			<key>Textures/Antenna15Cook-assets/Cook03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{92,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{92,52}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Cook.png</string>
+			<key>realTextureFileName</key>
+			<string>Cook.png</string>
+			<key>size</key>
+			<string>{262,56}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>262</integer>
+			<key>height</key>
+			<integer>56</integer>
+		</dict>
+	</dict>
+</plist>

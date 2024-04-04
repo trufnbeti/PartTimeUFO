@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/SeaProp-assets/Boat01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{676,700}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{676,700}</string>
+			</dict>
+			<key>Textures/SeaProp-assets/Boat02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,703},{676,700}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{676,700}</string>
+			</dict>
+			<key>Textures/SeaProp-assets/Boat03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{679,1},{676,700}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{676,700}</string>
+			</dict>
+			<key>Textures/SeaProp-assets/Boat04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1357,1},{676,700}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{676,700}</string>
+			</dict>
+			<key>Textures/SeaProp-assets/BoatCockpit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{679,703},{380,600}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{380,600}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Boat.png</string>
+			<key>realTextureFileName</key>
+			<string>Boat.png</string>
+			<key>size</key>
+			<string>{2034,1404}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2034</integer>
+			<key>height</key>
+			<integer>1404</integer>
+		</dict>
+	</dict>
+</plist>

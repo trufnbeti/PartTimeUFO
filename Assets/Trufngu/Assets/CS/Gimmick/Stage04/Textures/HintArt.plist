@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/HintArt-assets/Art01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,151},{98,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{98,82}</string>
+			</dict>
+			<key>Textures/HintArt-assets/Art02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{71,1},{90,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{90,82}</string>
+			</dict>
+			<key>Textures/HintArt-assets/Art03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{68,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,148}</string>
+			</dict>
+			<key>Textures/Exhibition-assets/Earthenware01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,334},{30,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,61}</string>
+			</dict>
+			<key>Textures/Exhibition-assets/Earthenware02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,251},{26,81}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,81}</string>
+			</dict>
+			<key>Textures/Exhibition-assets/Fossil01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,397},{26,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,54}</string>
+			</dict>
+			<key>Textures/Exhibition-assets/HaniwaPole.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{29,251},{30,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,57}</string>
+			</dict>
+			<key>Textures/Exhibition-assets/PrimitiveManPedestal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{71,93},{53,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{53,59}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>HintArt.png</string>
+			<key>realTextureFileName</key>
+			<string>HintArt.png</string>
+			<key>size</key>
+			<string>{154,452}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>154</integer>
+			<key>height</key>
+			<integer>452</integer>
+		</dict>
+	</dict>
+</plist>

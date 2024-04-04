@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Stage02Prop-assets/Dog01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{152,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{152,164}</string>
+			</dict>
+			<key>Textures/Stage02Prop-assets/Dog02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,167},{152,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{152,164}</string>
+			</dict>
+			<key>Textures/Stage02Prop-assets/Dog03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,333},{152,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{152,164}</string>
+			</dict>
+			<key>Textures/Stage02Prop-assets/Dog04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,499},{152,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{152,164}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Dog.png</string>
+			<key>realTextureFileName</key>
+			<string>Dog.png</string>
+			<key>size</key>
+			<string>{154,664}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>154</integer>
+			<key>height</key>
+			<integer>664</integer>
+		</dict>
+	</dict>
+</plist>

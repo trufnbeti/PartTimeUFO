@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/SavingMark-assets/SavingText01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{10,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingText02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,226},{10,6}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{10,6}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingText03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,16},{10,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingText04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,100},{9,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{9,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingText05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,30},{10,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingText06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,114},{9,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{9,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingText07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,44},{10,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingText08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,58},{10,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingTextEn01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,72},{10,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingTextEn02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,128},{8,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingTextEn03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,86},{10,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingTextEn04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,142},{8,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingTextEn05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,156},{8,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingTextEn06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,170},{8,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingTextEn07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,184},{8,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingTextEn08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,198},{8,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,10}</string>
+			</dict>
+			<key>Textures/SavingMark-assets/SavingTextEn09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,212},{8,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,10}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>SavingMark.png</string>
+			<key>realTextureFileName</key>
+			<string>SavingMark.png</string>
+			<key>size</key>
+			<string>{14,238}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>14</integer>
+			<key>height</key>
+			<integer>238</integer>
+		</dict>
+	</dict>
+</plist>

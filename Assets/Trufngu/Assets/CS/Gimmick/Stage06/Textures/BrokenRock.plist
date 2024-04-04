@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/BrokenRock-assets/RockBigBottom.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,275},{512,220}}</string>
+				<key>offset</key>
+				<string>{-6,-182}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{548,592}</string>
+			</dict>
+			<key>Textures/BrokenRock-assets/RockBigLeft.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{503,1},{300,416}}</string>
+				<key>offset</key>
+				<string>{-84,84}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{548,592}</string>
+			</dict>
+			<key>Textures/BrokenRock-assets/RockBigRight.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{272,500}}</string>
+				<key>offset</key>
+				<string>{134,38}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{548,592}</string>
+			</dict>
+			<key>Textures/BrokenRock-assets/RockLittle01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{615,419},{88,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{96,104}</string>
+			</dict>
+			<key>Textures/BrokenRock-assets/RockLittle02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{417,275},{80,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{88,76}</string>
+			</dict>
+			<key>Textures/BrokenRock-assets/RockIcon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{417,345},{84,52}}</string>
+				<key>offset</key>
+				<string>{4,-102}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{548,592}</string>
+			</dict>
+			<key>Textures/BrokenRock-assets/MaskRockLB.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{805,375},{212,76}}</string>
+				<key>offset</key>
+				<string>{-108,-94}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{548,592}</string>
+			</dict>
+			<key>Textures/BrokenRock-assets/MaskRockLR.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{805,1},{72,372}}</string>
+				<key>offset</key>
+				<string>{34,98}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{548,592}</string>
+			</dict>
+			<key>Textures/BrokenRock-assets/MaskRockRB.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{223,457},{232,128}}</string>
+				<key>offset</key>
+				<string>{110,-156}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{548,592}</string>
+			</dict>
+			<key>Textures/BrokenRock-assets/RockMiddle01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{223,275},{180,192}}</string>
+				<key>offset</key>
+				<string>{0,2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{188,204}</string>
+			</dict>
+			<key>Textures/BrokenRock-assets/RockMiddle02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{417,419},{196,176}}</string>
+				<key>offset</key>
+				<string>{0,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{204,180}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>BrokenRock.png</string>
+			<key>realTextureFileName</key>
+			<string>BrokenRock.png</string>
+			<key>size</key>
+			<string>{882,788}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>882</integer>
+			<key>height</key>
+			<integer>788</integer>
+		</dict>
+	</dict>
+</plist>

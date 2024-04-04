@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Shop-assets/Cat01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{30,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,26}</string>
+			</dict>
+			<key>Textures/Shop-assets/Cat02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{33,1},{30,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,26}</string>
+			</dict>
+			<key>Textures/Shop-assets/Cat03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{65,1},{30,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,26}</string>
+			</dict>
+			<key>Textures/Shop-assets/Cat04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{97,1},{30,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,26}</string>
+			</dict>
+			<key>Textures/Shop-assets/Cat05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{129,1},{30,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,26}</string>
+			</dict>
+			<key>Textures/Shop-assets/Cat06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{161,1},{30,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,26}</string>
+			</dict>
+			<key>Textures/Shop-assets/Cat07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{193,1},{30,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,26}</string>
+			</dict>
+			<key>Textures/Shop-assets/Cat08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{225,1},{30,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,26}</string>
+			</dict>
+			<key>Textures/Shop-assets/Catfood.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{289,1},{14,8}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{14,8}</string>
+			</dict>
+			<key>Textures/Shop-assets/Cat09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{257,1},{30,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,26}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Cat.png</string>
+			<key>realTextureFileName</key>
+			<string>Cat.png</string>
+			<key>size</key>
+			<string>{304,28}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>304</integer>
+			<key>height</key>
+			<integer>28</integer>
+		</dict>
+	</dict>
+</plist>

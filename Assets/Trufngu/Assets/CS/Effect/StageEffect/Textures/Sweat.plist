@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Sweat-assets/Sweat01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{10,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>Textures/Sweat-assets/Sweat02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,13},{8,8}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,8}</string>
+			</dict>
+			<key>Textures/Sweat-assets/Sweat03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,23},{6,6}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{6,6}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Sweat.png</string>
+			<key>realTextureFileName</key>
+			<string>Sweat.png</string>
+			<key>size</key>
+			<string>{12,30}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>12</integer>
+			<key>height</key>
+			<integer>30</integer>
+		</dict>
+	</dict>
+</plist>

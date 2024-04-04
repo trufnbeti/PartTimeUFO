@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/GodShine-assets/DotShine01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,86},{7,7}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{7,7}</string>
+			</dict>
+			<key>Textures/GodShine-assets/DotShine02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,86},{7,7}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{7,7}</string>
+			</dict>
+			<key>Textures/GodShine-assets/Shining.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{83,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{83,83}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>GodShine.png</string>
+			<key>realTextureFileName</key>
+			<string>GodShine.png</string>
+			<key>size</key>
+			<string>{85,94}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>85</integer>
+			<key>height</key>
+			<integer>94</integer>
+		</dict>
+	</dict>
+</plist>

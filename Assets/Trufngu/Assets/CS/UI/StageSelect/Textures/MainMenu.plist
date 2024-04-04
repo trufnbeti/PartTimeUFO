@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/MainMenu-assets/Train.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,875},{55,9}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{55,9}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/HouseNormal02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,483},{240,390}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,390}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/HouseNormal03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,1},{240,390}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,390}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/HouseNormal04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{635,1},{240,390}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,390}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/HouseNormal05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{240,480}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,480}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/BGBackAdd.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{635,393},{240,320}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,320}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/BGMiddleAdd.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,485},{240,320}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,320}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/Magazine00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{58,875},{26,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,16}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/Magazine01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{86,875},{26,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,16}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/Magazine02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{114,875},{26,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,16}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/Magazine03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{142,875},{26,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,16}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/Magazine04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{170,875},{26,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,16}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/HouseNormal01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,243},{240,390}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,390}</string>
+			</dict>
+			<key>Textures/MainMenu-assets/ScreenOutBelt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{565,485},{240,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,35}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>MainMenu.png</string>
+			<key>realTextureFileName</key>
+			<string>MainMenu.png</string>
+			<key>size</key>
+			<string>{876,892}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>876</integer>
+			<key>height</key>
+			<integer>892</integer>
+		</dict>
+	</dict>
+</plist>

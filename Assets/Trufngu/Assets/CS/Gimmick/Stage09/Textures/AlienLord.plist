@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/AlienLord-assets/AlienLordBodyCatched00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordBodyCatched01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{311,1},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordBodyCatched02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{621,1},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordBodyCatched03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{931,1},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordBodyCatched04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,239},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordCatched00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,549},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordCatched01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,859},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordCatched02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{239,239},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordCatched03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{549,239},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordCatched04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{859,239},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordBody.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{239,477},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordPull00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{239,787},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordPull01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{239,1097},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordNormal00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{477,477},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordNormal01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{477,787},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordGrab00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{549,1097},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+			<key>Textures/AlienLord-assets/AlienLordGrab01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{715,477},{308,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{308,236}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>AlienLord.png</string>
+			<key>realTextureFileName</key>
+			<string>AlienLord.png</string>
+			<key>size</key>
+			<string>{1240,1334}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1240</integer>
+			<key>height</key>
+			<integer>1334</integer>
+		</dict>
+	</dict>
+</plist>

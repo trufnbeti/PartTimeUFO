@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/DotNumberBig-assets/DotNumberBig01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{30,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,45}</string>
+			</dict>
+			<key>Textures/DotNumberBig-assets/DotNumberBig02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,48},{30,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,45}</string>
+			</dict>
+			<key>Textures/DotNumberBig-assets/DotNumberBig03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,95},{30,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,45}</string>
+			</dict>
+			<key>Textures/DotNumberBig-assets/DotNumberBig04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,142},{30,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,45}</string>
+			</dict>
+			<key>Textures/DotNumberBig-assets/DotNumberBig05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,189},{30,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,45}</string>
+			</dict>
+			<key>Textures/DotNumberBig-assets/DotNumberBig06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,236},{30,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,45}</string>
+			</dict>
+			<key>Textures/DotNumberBig-assets/DotNumberBig07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,283},{30,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,45}</string>
+			</dict>
+			<key>Textures/DotNumberBig-assets/DotNumberBig08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,330},{30,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,45}</string>
+			</dict>
+			<key>Textures/DotNumberBig-assets/DotNumberBig09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,377},{30,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,45}</string>
+			</dict>
+			<key>Textures/DotNumberBig-assets/DotNumberBig10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,424},{30,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,45}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>DotNumberBig.png</string>
+			<key>realTextureFileName</key>
+			<string>DotNumberBig.png</string>
+			<key>size</key>
+			<string>{32,470}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>32</integer>
+			<key>height</key>
+			<integer>470</integer>
+		</dict>
+	</dict>
+</plist>

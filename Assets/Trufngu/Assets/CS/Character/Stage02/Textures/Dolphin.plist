@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Stage02Character-assets/DolphinCheer01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{110,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,116}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/DolphinWait01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{225,119},{110,113}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,113}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/DolphinWait02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{337,1},{110,113}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,113}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/DolphinWait03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{449,1},{110,113}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,113}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/DolphinWait04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{337,116},{110,113}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,113}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/DolphinCheer02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,119},{110,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,116}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/DolphinCheer03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,1},{110,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,116}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/DolphinCheer04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,119},{110,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,116}</string>
+			</dict>
+			<key>Textures/Stage02Character-assets/DolphinCheer05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{225,1},{110,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,116}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Dolphin.png</string>
+			<key>realTextureFileName</key>
+			<string>Dolphin.png</string>
+			<key>size</key>
+			<string>{560,236}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>560</integer>
+			<key>height</key>
+			<integer>236</integer>
+		</dict>
+	</dict>
+</plist>

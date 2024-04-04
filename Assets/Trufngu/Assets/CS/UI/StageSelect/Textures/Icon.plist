@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/IconBoy-assets/IconBoy01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+			<key>Textures/IconBoy-assets/IconBoy02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,37},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+			<key>Textures/IconBoy-assets/IconBoy04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,73},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+			<key>Textures/IconBoy-assets/IconBoy05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,109},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+			<key>Textures/IconBoy-assets/IconBoy06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,145},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+			<key>Textures/IconBoy-assets/IconBoy07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,181},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+			<key>Textures/IconBoy-assets/IconBoy08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,217},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+			<key>Textures/IconBoy-assets/IconBoy09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,253},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+			<key>Textures/IconBoy-assets/IconBoy10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,289},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+			<key>Textures/IconBoy-assets/IconBoy03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,325},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Icon.png</string>
+			<key>realTextureFileName</key>
+			<string>Icon.png</string>
+			<key>size</key>
+			<string>{36,360}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>36</integer>
+			<key>height</key>
+			<integer>360</integer>
+		</dict>
+	</dict>
+</plist>

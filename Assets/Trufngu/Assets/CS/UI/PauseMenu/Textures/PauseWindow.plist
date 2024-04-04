@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/PauseWindow-assets/PauseWindow02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{215,1},{168,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{168,28}</string>
+			</dict>
+			<key>Textures/PauseWindow-assets/PauseWindow01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{172,212}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{172,212}</string>
+			</dict>
+			<key>Textures/PauseWindow-assets/BlackScreen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,141},{8,8}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,8}</string>
+			</dict>
+			<key>Textures/AchievementNumber00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,1},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/AchievementNumber01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,15},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/AchievementNumber02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,29},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/AchievementNumber03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,43},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/AchievementNumber04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,57},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/AchievementNumber05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,71},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/AchievementNumber06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,85},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/AchievementNumber07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,99},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/AchievementNumber08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,113},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>Textures/AchievementNumber09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,127},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PauseWindow.png</string>
+			<key>realTextureFileName</key>
+			<string>PauseWindow.png</string>
+			<key>size</key>
+			<string>{258,174}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>258</integer>
+			<key>height</key>
+			<integer>174</integer>
+		</dict>
+	</dict>
+</plist>

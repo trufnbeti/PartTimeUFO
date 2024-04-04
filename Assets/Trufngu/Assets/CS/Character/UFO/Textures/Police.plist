@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Antenna22Police-assets/HandCuffs01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{283,1},{36,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,40}</string>
+			</dict>
+			<key>Textures/Antenna22Police-assets/HandCuffs01OL.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{283,43},{36,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,40}</string>
+			</dict>
+			<key>Textures/Antenna22Police-assets/HandCuffs02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{123,35},{28,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{28,36}</string>
+			</dict>
+			<key>Textures/Antenna22Police-assets/HandCuffs02OL.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{161,35},{28,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{28,36}</string>
+			</dict>
+			<key>Textures/Antenna22Police-assets/HandCuffs03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{229,1},{48,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{48,52}</string>
+			</dict>
+			<key>Textures/Antenna22Police-assets/PoliceHat.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{120,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,64}</string>
+			</dict>
+			<key>Textures/Antenna22Police-assets/UFOBody22.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{123,1},{104,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,32}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Police.png</string>
+			<key>realTextureFileName</key>
+			<string>Police.png</string>
+			<key>size</key>
+			<string>{320,84}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>320</integer>
+			<key>height</key>
+			<integer>84</integer>
+		</dict>
+	</dict>
+</plist>

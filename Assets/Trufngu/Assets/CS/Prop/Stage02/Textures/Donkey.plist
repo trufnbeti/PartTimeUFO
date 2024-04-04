@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Textures/Stage02Prop-assets/Donkey01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,501},{184,244}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{184,244}</string>
+			</dict>
+			<key>Textures/Stage02Prop-assets/Donkey02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,747},{184,244}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{184,244}</string>
+			</dict>
+			<key>Textures/Stage02Prop-assets/DonkeyHead01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{187,1},{116,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,200}</string>
+			</dict>
+			<key>Textures/Stage02Prop-assets/DonkeyHead02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{187,203},{116,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,200}</string>
+			</dict>
+			<key>Textures/Stage02Prop-assets/Donkey03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{184,248}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{184,248}</string>
+			</dict>
+			<key>Textures/Stage02Prop-assets/Donkey04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,251},{184,248}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{184,248}</string>
+			</dict>
+			<key>Textures/Stage02Prop-assets/DonkeyHead03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{187,405},{116,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,200}</string>
+			</dict>
+			<key>Textures/Stage02Prop-assets/DonkeyHead04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{187,607},{116,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,200}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Donkey.png</string>
+			<key>realTextureFileName</key>
+			<string>Donkey.png</string>
+			<key>size</key>
+			<string>{304,992}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>304</integer>
+			<key>height</key>
+			<integer>992</integer>
+		</dict>
+	</dict>
+</plist>
