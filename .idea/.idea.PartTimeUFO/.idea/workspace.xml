@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df6121a5-3528-4665-9206-0c431e0f6dfe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Feel/NiceVibrations/NiceVibrationsAHAPConverters.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Feel/NiceVibrations/OlderVersions/v1.7/NiceVibrations-v-1-7.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Feel/NiceVibrations/OlderVersions/v2.0.1/NiceVibrations-v-2-0-1.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scripts/Utilities/Tool/DragableRigidbody2DJoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scripts/Utilities/Tool/DragableRigidbody2DJoint.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scripts/Utilities/Tool/DragableRigidbody2DSpringJoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scripts/Utilities/Tool/DragableRigidbody2DSpringJoint.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PartTimeUFO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PartTimeUFO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Levels/Level_1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Levels/Level_1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Prop.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Prop/Bucket.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Prop/Bucket.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Prop/Orange.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Prop/Orange.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Prop/OrangeBox.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Prop/OrangeBox.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Level.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Level.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Prop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Prop.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Manager/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Manager/LevelManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Others/Constant.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Others/Constant.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +30,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/53aac14d88ba4477acc998b039cfd73a15ae00/52/4ca6339e/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c3441a28221640fa92166d8dbc1433a11fa00/4b/0549d20f/RaycastHit2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Container.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Level.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Manager/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Others/CacheComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Others/Constant.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Others/DataStruct.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Trufngu/_Trufn/Manager/EventManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -43,27 +51,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;trufngu&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "trufngu",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\trung\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\trung\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\trung\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\trung\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\trung\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\trung\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.31f1\Editor\Unity.exe" />
@@ -112,6 +120,7 @@
       <updated>1712047649630</updated>
       <workItem from="1712047653413" duration="6970000" />
       <workItem from="1712110438208" duration="6658000" />
+      <workItem from="1712197729971" duration="18565000" />
     </task>
     <servers />
   </component>

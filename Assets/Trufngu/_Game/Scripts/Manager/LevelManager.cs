@@ -6,28 +6,36 @@ using UnityEngine;
 public class LevelManager : Singleton<LevelManager>
 {
 	[SerializeField] private Level[] levels;
-	[SerializeField]private List<Prop> props;
+	[SerializeField] private List<Prop> props = new List<Prop>(); // thang nay cung de private
 
+	private Container currentContainer;
 	private Level currentLevel;
 
-	public int PropsLeft => props.Count;
-	public int propsleft;
-
-	private void Awake() {
-		currentLevel = levels[0];
-	}
+	[SerializeField]private int propsLeft; //thang nay de private
 
 	private void Start() {
-		currentLevel.OnInit();
-		props = currentLevel.props;
-		propsleft = PropsLeft;
+		currentLevel = Instantiate(levels[0]);
+		currentContainer = currentLevel.container;
+		OnInit();
 	}
 
-	public void OnPropInBucket(Prop prop) {
-		if (props.Contains(prop)) {
-			props.Remove(prop);
-			propsleft = PropsLeft;
+	private void OnInit() {
+		currentContainer.OnInit();
+		currentLevel.OnInit();
+		propsLeft = currentLevel.TotalProps;
+	}
+
+	public void OnPropCollect(Prop prop) {
+		if (!props.Contains(prop)) {
+			props.Add(prop);
+			propsLeft--;
 		}
 	}
-
+	
+	public void OnPropExit(Prop prop) {
+		if (props.Contains(prop)) {
+			props.Remove(prop);
+			propsLeft++;
+		}
+	}
 }

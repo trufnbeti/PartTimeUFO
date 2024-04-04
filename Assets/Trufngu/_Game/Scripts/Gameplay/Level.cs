@@ -5,9 +5,10 @@ using UnityEngine;
 using Utilities;
 
 public class Level : MonoBehaviour {
-    public List<Prop> props = new List<Prop>();
+    [SerializeField] public List<Prop> props = new List<Prop>();
+    [SerializeField] public Container container;
 
-    public int totalProps => props.Count;
+    public int TotalProps => props.Count;
     
     public void OnInit() {
         for (int i = 0; i < props.Count; ++i) {
