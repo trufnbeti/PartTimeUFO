@@ -5,12 +5,14 @@ using Utilities;
 
 public class Prop : GameUnit
 {
-    [SerializeField] private DragableRigidbody2DJoint dragable;
+    public Rigidbody2D rb;
+    
     private Container container;
     
+    public bool IsDragging { get;  set; }
 	public bool IsOnContainer { get; private set; }
 
-    public bool CanCollect => IsOnContainer && Vector2.Distance(dragable.Rb.velocity, Vector2.zero) < 0.75f && !dragable.IsDragging;
+    public bool CanCollect => IsOnContainer && Vector2.Distance(rb.velocity, Vector2.zero) < 0.75f && !IsDragging;
     
     public void OnInit() {
         IsOnContainer = false;

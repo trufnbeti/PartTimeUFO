@@ -53,7 +53,7 @@ namespace Utilities
                 anchoredJoint2DLineRenderer.joint = SpringJoint;
                 anchoredJoint2DLineRenderer.offsetMainBody = SpringJoint.anchor;
                 anchoredJoint2DLineRenderer.offsetConnectedBody = SpringJoint.connectedAnchor;
-                // anchoredJoint2DLineRenderer.enabled = true;
+                anchoredJoint2DLineRenderer.enabled = true;
             }
 
             return SpringJoint;

@@ -7,6 +7,8 @@ namespace PrototypeGameplayDragPin
     public class ScrollCameraControl : MonoBehaviour
     {
         [SerializeField] private GameplayControlDragPin _gameplayControlDragPin;
+        [SerializeField] private DragTarget dragTarget;
+        
         [SerializeField] private Transform _cameraTransform;
         [SerializeField] private AnimationCurve _mouseViewportPosXToHorizontalScrollSpeed = AnimationCurve.EaseInOut(0, -1, 1, 1);
         [SerializeField] private AnimationCurve _mouseViewportPosYToVerticalScrollSpeed = AnimationCurve.EaseInOut(0, 0, 1, 1);
@@ -15,10 +17,12 @@ namespace PrototypeGameplayDragPin
 
         private bool _isDragMap;
         private Vector2 _prevWorldMousePos;
+        
+        
 
         private void LateUpdate()
         {
-            if (_gameplayControlDragPin.IsDraggingObject)
+            if (dragTarget.IsDragging)
             {
                 Vector2 viewportMousePos = Camera.main.ScreenToViewportPoint(Input.mousePosition);
                 Vector2 scrollSpeed = new Vector2(

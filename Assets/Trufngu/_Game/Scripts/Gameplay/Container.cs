@@ -7,8 +7,6 @@ public class Container : MonoBehaviour
 {
     private List<Prop> props = new List<Prop>();
 
-    public int PropsCount => props.Count;
-
     public void OnInit() {
         props.Clear();
     }

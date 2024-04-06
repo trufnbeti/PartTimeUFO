@@ -15,8 +15,6 @@ namespace PrototypeGameplayDragPin
         private DragableRigidbody2DJoint _draggingObject;
         private PinPoint _selectedPin;
 
-        public bool IsDraggingObject => _draggingObject != null;
-
         private void Awake()
         {
             Application.targetFrameRate = 60;
