@@ -13,6 +13,7 @@ namespace PrototypeGameplayDragPin
         public List<PinPoint> _pin = null;
 
         private DragableRigidbody2DJoint _draggingObject;
+        public bool IsDragging => _draggingObject != null;
         private PinPoint _selectedPin;
 
         private void Awake()

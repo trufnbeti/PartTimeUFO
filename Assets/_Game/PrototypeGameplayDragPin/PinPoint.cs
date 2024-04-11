@@ -75,6 +75,29 @@ namespace PrototypeGameplayDragPin
             _joints.Add(joint);
             _line.Add(line);
         }
+        
+        public void CreateSpringJoint(Prop dragObject)
+        {
+            GameObject obj = new GameObject("Rigidbody2D dragger");
+            obj.transform.parent = transform;
+            obj.transform.SetLocalPositionAndRotation(Vector3.zero, Quaternion.identity);
+            Rigidbody2D jointBody = obj.AddComponent<Rigidbody2D>();
+            jointBody.isKinematic = true;
+            SpringJoint2D joint = obj.AddComponent<SpringJoint2D>();
+            
+            joint.anchor = Vector2.zero;
+            joint.connectedAnchor = dragObject.AnchorJoint;
+            joint.dampingRatio = 1;
+            joint.frequency = 5;
+            // Don't want our invisible "Rigidbody2D dragger" to collide!
+            joint.enableCollision = false;
+            joint.connectedBody = dragObject.rb;
+            joint.autoConfigureDistance = true;
+            joint.distance = 0.5f;
+
+            dragObject.jointPin = joint;
+
+        }
 
         private void OnDrawGizmosSelected()
         {

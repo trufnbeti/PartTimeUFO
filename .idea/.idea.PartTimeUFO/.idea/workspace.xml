@@ -6,23 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="df6121a5-3528-4665-9206-0c431e0f6dfe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PartTimeUFO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PartTimeUFO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/Bounce.physicsMaterial2D" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/Bounce.physicsMaterial2D.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/Prop.physicsMaterial2D" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/Prop.physicsMaterial2D.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/Trufngu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/Trufngu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Levels/Level_1/Level_1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Levels/Level_1/Level_1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Levels/Level_1/Prop/Orange.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Levels/Level_1/Prop/Orange.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Levels/Level_1/Prop/OrangeBox.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Prefabs/Levels/Level_1/Prop/OrangeBox.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Container.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Container.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Level.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Level.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Prop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Gameplay/Prop.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Manager/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trufngu/_Game/Scripts/Manager/LevelManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/DragTarget.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/DragTarget.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Game/PrototypeGameplayDragPin/GameplayControlDragPin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/PrototypeGameplayDragPin/GameplayControlDragPin.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Game/PrototypeGameplayDragPin/ScrollCameraControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/PrototypeGameplayDragPin/ScrollCameraControl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scripts/Utilities/Tool/DragableRigidbody2DSpringJoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scripts/Utilities/Tool/DragableRigidbody2DSpringJoint.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,27 +40,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.C#",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C#&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\trung\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\trung\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\trung\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\trung\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\trung\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\trung\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.31f1\Editor\Unity.exe" />
@@ -127,6 +112,7 @@
       <workItem from="1712197729971" duration="20207000" />
       <workItem from="1712285544917" duration="1696000" />
       <workItem from="1712374484575" duration="4187000" />
+      <workItem from="1712714905988" duration="697000" />
     </task>
     <servers />
   </component>

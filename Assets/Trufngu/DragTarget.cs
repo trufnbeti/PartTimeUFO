@@ -27,7 +27,7 @@ public class DragTarget : MonoBehaviour {
 	
 	private Prop propDragging;
 
-	public bool IsDragging { get; set; }
+	public bool IsDragging => propDragging != null;
 	
 	void Update ()
 	{
@@ -41,8 +41,8 @@ public class DragTarget : MonoBehaviour {
 			var collider = Physics2D.OverlapPoint (worldPos, m_DragLayers);
 			if (!collider)
 				return;
-			IsDragging = true;
 			propDragging = CacheComponent.GetProp(collider);
+			propDragging.DestroyJoint();
 			propDragging.IsDragging = true;
 			Rigidbody2D rb = propDragging.rb;
 
@@ -65,12 +65,13 @@ public class DragTarget : MonoBehaviour {
 			m_TargetJoint.autoConfigureTarget = false;
 
 			// Attach the anchor to the local-point where we clicked.
-			m_TargetJoint.anchor = m_TargetJoint.transform.InverseTransformPoint (worldPos);		
-			
+			propDragging.AnchorJoint = m_TargetJoint.transform.InverseTransformPoint (worldPos);
+			m_TargetJoint.anchor = propDragging.AnchorJoint;
+
 		}
 		else if (Input.GetMouseButtonUp (0)) {
-			IsDragging = false;
 			if (propDragging) {
+				LevelManager.Ins.CheckPin(propDragging);
 				propDragging.IsDragging = false;
 				propDragging = null;
 			}
@@ -87,7 +88,7 @@ public class DragTarget : MonoBehaviour {
 			} else {
 				m_TargetJoint.target = worldPos;
 			}
-
+			
 
 			// Draw the line between the target and the joint anchor.
 			if (m_DrawDragLine) {
